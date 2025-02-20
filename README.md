@@ -1,4 +1,3 @@
-﻿# platformer_game
 # Platformer Game  
 
 A fun, dynamic 2D platformer built with vanilla JavaScript and HTML Canvas. Navigate through challenging platforms, reach checkpoints, and experience a seamless gaming adventure!
@@ -70,7 +69,7 @@ Feel free to contribute to this project!
 
 ## 🙌 Acknowledgments  
 - Inspired by classic platformer games.  
-- Special thanks to freecodecamp for the detailed tutorial.  
+- Special thanks to freecodecamp.org for the detailed tutorial.  
 
 ---
 
